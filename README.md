@@ -6,7 +6,7 @@
 - Download / Clone project and export to Ecllipse or Intellij IDE (I used Intellij to build project)
 - Run MapReduce Main class from IDE
 
-## Run From Jar File
+## Run Jar File
 - Build Jar File and run jar file
 - Use Maven command : mvn package
 - Run jar file in target folder
