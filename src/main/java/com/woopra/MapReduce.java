@@ -9,10 +9,6 @@ import com.woopra.domain.Actions;
 import com.woopra.domain.Record;
 import org.apache.log4j.Logger;
 
-import javax.annotation.Resources;
-import java.io.File;
-import java.io.IOException;
-import java.net.URL;
 import java.util.*;
 import java.util.stream.Collectors;
 
